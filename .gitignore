@@ -38,6 +38,10 @@
 
 # "temporary" build files
 /target
+/out
 
 # other
 *.iws
+*.ipr
+*.iml
+
